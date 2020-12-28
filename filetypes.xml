@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="MotherHen" type="CLASS" />
+      <mapping pattern="DBReader" type="JAVA" />
+      <mapping pattern="DonatingDAOImpl" type="JAVA" />
+      <mapping pattern="FanClubDAOImplJSON" type="JAVA" />
+      <mapping pattern="DBConnector" type="JAVA" />
+      <mapping pattern="Main" type="JAVA" />
+      <mapping pattern="ValidationException" type="JAVA" />
+      <mapping pattern="FanClubDAOImplDB" type="JAVA" />
+      <mapping pattern="DAOFactory" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+    </extensionMap>
+  </component>
+</application>
